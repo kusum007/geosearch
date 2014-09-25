@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="1" hostname="localhost" id="0" name="GeoSearchControllerTests" package="geosearch" tests="1" time="0.194" timestamp="2013-08-20T12:47:25">
+      <properties />
+
+      <testcase classname="geosearch.GeoSearchControllerTests" name="testSomething" time="0.172">
+          <failure message="junit.framework.AssertionFailedError: Implement me" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: junit.framework.AssertionFailedError: Implement me
+	at geosearch.GeoSearchControllerTests.testSomething(GeoSearchControllerTests.groovy:18)
+</failure>
+
+      </testcase>
+
+      <system-out />
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+</testsuites>
